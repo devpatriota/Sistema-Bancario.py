@@ -74,10 +74,8 @@ while True:
         print("---------------------------")
 
     elif opcao == "0":
-        print(
-            "Encerrando o sistema",
-            end="..." "\nObrigado por utilizar nosso sistema bancário!",
-            )
+        print("Encerrando o sistema",
+            end="..." "\nObrigado por utilizar nosso sistema bancário!",)
         break
 
     else:
